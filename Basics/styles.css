@@ -1,3 +1,33 @@
+/* color property */
 a{
   color: blue;
 }
+/* background-color property */
+a{
+  background-color: purple;
+  color: white;
+}
+}
+
+
+/* Universal selector */
+*{
+  font-size: 20px;
+}
+/* element selector */
+
+h1{
+  color: red;
+}
+
+/* class selector */
+
+.highlight{
+  color: yellow;
+}
+
+/* id selector */
+#paragraph{
+  background-color:green;
+}
+
