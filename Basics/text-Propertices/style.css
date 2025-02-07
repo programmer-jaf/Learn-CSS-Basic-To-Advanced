@@ -1,0 +1,29 @@
+p {
+    /* text alignment properties */
+
+    /* text-align: left; */
+    text-align: center;
+    /* text-align: right; */
+
+    /* text decoration properties */
+    /* text-decoration: none; */
+    text-decoration: underline;
+
+    /* font weight */
+    /* font-weight: normal; */
+    font-weight: bold;
+
+    /* font-family */
+    /* font-family: Arial, sans-serif; */
+    font-family: 'Times New Roman', serif;
+
+
+    /* text-transform */
+    text-transform: capitalize;
+    /*text-transform: uppercase;*/
+    /*text-transform: lowercase;*/
+    /*text-transform: revert;*/
+
+
+
+}
